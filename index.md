@@ -35,7 +35,7 @@ Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
       <li>Design and front-end development for Functional HTML Landing Projects <br>
       <code>Photoshop</code> <code>Illustrator</code> <code>HTML</code> <code>CSS</code>
     </li>
-</ul>
+</ul><br><br>
 ## Education
 <hr>
 <ul>
@@ -43,7 +43,7 @@ Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
   </li><br><br>
   <li><strong>BBA/Project Management and Business Development:</strong> <br>EADE Business School, Guatemala City, Guatemala - Present</li><br><br>
   <li><strong>Graphic Design/Industrial Bachelor:</strong><br> ITC Guatemala City, Guatemala (2006)</li>
-</ul>
+</ul><br><br>
 ## Skillss
 <hr>
 <ul>
@@ -51,7 +51,7 @@ Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
   <li><strong>Mobile Development:</strong><br><code>Xcode Story Board</code> <code>Android Studio</code></li><br><br>
   <li><strong>Web Design:</strong><br><code>Photoshop</code> <code>Illustratior</code> <code>Sketch</code></li><br><br>
   <li><strong>Systems:</strong><br><code>OSX</code> <code>Windows</code></li>
-</ul>
+</ul><br><br>
 ## Languages
 <hr>
 <ul>
