@@ -1,7 +1,6 @@
 <blockquote>
-I'm a Front-end Developer passionate about coding and design with 8 + years' of experience. 
-</blockquote>
-
+I'm a Front-end Developer motivated by the art of programming and design with 8 + years' of experience. Enthusiastic about the Web Development interaction, passionate autodidact.
+</blockquote><br><br>
 ## Work Experience
 <hr>
 ### CREATIVE SCIENCE LABS
