@@ -40,18 +40,18 @@ Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
 ## Education
 <hr>
 <ul>
-  <li><strong>Software Development Technician Degree:</strong> Galileo University, Guatemala City, Guatemala - Present<br>
+  <li><strong>Software Development Technician Degree:</strong> <br>Galileo University, Guatemala City, Guatemala - Present<br>
   </li>
-  <li><strong>BBA/Project Management and Business Development</strong> EADE Business School, Guatemala City, Guatemala - Present</li>
-  <li><strong>Graphic Design/Industrial Bachelor</strong>ITC Guatemala City, Guatemala (2006)</li>
+  <li><strong>BBA/Project Management and Business Development:</strong> <br>EADE Business School, Guatemala City, Guatemala - Present</li>
+  <li><strong>Graphic Design/Industrial Bachelor:</strong><br> ITC Guatemala City, Guatemala (2006)</li>
 </ul>
 ## Skilss
 <hr>
 <ul>
-  <li>Front-end Development: <code>jQuey</code><code>Javascript</code><code>Bootstrap</code><code>Foundation</code><code>HTML5</code><code>CSS3</code><code>SASS</code><code>LESS</code><code>UI/UX Knowledge</code></li>
-  <li>Mobile Development:<code>Xcode Story Board</code><code>Android Studio</code></li>
-  <li>Web Design: <code>Photoshop</code><code>Illustratior</code><code>Sketch</code></li>
-  <li>Text Goes here...</li>
+  <li><strong>Front-end Development:</strong> <code>jQuey</code><code>Javascript</code><code>Bootstrap</code><code>Foundation</code><code>HTML5</code><code>CSS3</code><code>SASS</code><code>LESS</code><code>UI/UX Knowledge</code><code>Git</code><code>SVN</code></li>
+  <li><strong>Mobile Development:</strong><code>Xcode Story Board</code><code>Android Studio</code></li>
+  <li><strong>Web Design:</strong><code>Photoshop</code><code>Illustratior</code><code>Sketch</code></li>
+  <li><strong>Systems:</strong><code>OSX</code><code>Windows</code></li>
 </ul>
 ## Languages
 <hr>
