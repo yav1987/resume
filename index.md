@@ -1,10 +1,7 @@
 
-I'm a Front-end Developer 
-
+I'm a Front-end Developer passionate about design and coding, 
 <hr>
-
 ## Work Experience
-
 ### CREATIVE SCIENCE LABS
 #### Front-End Developer
 Guatemala City, Guatemala ( Jan 2015 - Present )<br>
@@ -13,7 +10,7 @@ Guatemala City, Guatemala ( Jan 2015 - Present )<br>
 <code>jQuery</code> <code>Javascript</code> <code>HTML5</code> <code>CSS</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>Wordpress</code> <code>Drupal</code> <code>Jekyll</code> 
   </li>
 </ul>
-<b>-----</b>
+<br>
 #### FOX INTERNATIONAL CHANNELS GUATEMALA
 #### Website Designer Executive
 Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
@@ -22,16 +19,22 @@ Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
 <code>HTML5</code> <code>CSS</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>iOS</code> <code>Android</code>
       </li>
 </ul>
-
 <hr>
-
 ## Education
 <ul>
   <li>Text Goes here...</li>
   <li>Text Goes here...</li>
   <li>Text Goes here...</li>
 </ul>
+<hr>
 ## Skilss
+<ul>
+  <li>Text Goes here...</li>
+  <li>Text Goes here...</li>
+  <li>Text Goes here...</li>
+</ul>
+<hr>
+## Languages
 <ul>
   <li>Text Goes here...</li>
   <li>Text Goes here...</li>
