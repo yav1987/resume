@@ -11,8 +11,8 @@ Guatemala City, Guatemala ( Jan 2015 - Present )<br>
   <li>Currently developing wordpres/drupal websites for diferent kind of clients.<br>
     <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>Foundation</code> <code>HTML5</code> <code>CSS</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>Wordpress</code> <code>Drupal</code><br><br>
   </li>
-  <li>Giving UI/UX solutions for each assigned project project. <br><br></li>
-   <li>Giiving maintenance and creating new components for main wordpres website theme built from scratch which is adaptable to the needs and requirements of each project.<br>
+  <li>UI/UX solutions for each assigned project project. <br><br></li>
+   <li>Maintenance and creating new components for main wordpres website theme built from scratch which is adaptable to the needs and requirements of each project.<br>
     <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>PHP</code> <code>HTML5</code> <code>CSS</code> <code>SASS</code>
   </li>
 </ul>
@@ -25,7 +25,7 @@ Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
 <code>HTML5</code> <code>CSS</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>iOS</code> <code>Android</code>
       </li>
 </ul>
-<br><br>
+<br>
 ## Education
 <hr>
 <ul>
@@ -33,7 +33,7 @@ Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
   <li>Text Goes here...</li>
   <li>Text Goes here...</li>
 </ul>
-<br><br>
+<br>
 ## Skilss
 <hr>
 <ul>
@@ -41,7 +41,7 @@ Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
   <li>Text Goes here...</li>
   <li>Text Goes here...</li>
 </ul>
-<br><br>
+<br>
 ## Languages
 <hr>
 <ul>
