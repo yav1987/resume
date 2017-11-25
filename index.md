@@ -2,10 +2,11 @@
 I'm a Front-end Developer 
 
 ## Work Experience
-<h4>[CREATIVE SCIENCE LABS](http://creativesciencelabs.com)</h4>
+[CREATIVE SCIENCE LABS](http://creativesciencelabs.com)
 Guatemala City, Guatemala.<br>
 (Jan 2015 - Present)
- 
+
+<hr>
 
 ### FOX INTERNATIONAL CHANNELS GUATEMALA
 
