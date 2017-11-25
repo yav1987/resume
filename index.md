@@ -1,5 +1,5 @@
 <blockquote>
-I'm a Front-end Developer motivated by the art of programming and design with 8 + years' of experience. Enthusiastic about the Web Development interaction, passionate autodidact.
+I'm a Front-end Developer motivated by the art of programming and design with 8 + years' of experience. Enthusiastic about the Web Development interaction. Passionate autodidact.
 </blockquote><br><br>
 ## Work Experience
 <hr>
