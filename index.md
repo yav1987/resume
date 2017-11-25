@@ -1,6 +1,7 @@
 ```markdown
 I'm a Front-end Web Developer motivated by the art of programming and design with 8 + years' of experience. Enthusiastic about the Web Development interaction. 
-```<br><br>
+```
+<br><br>
 ## Work Experience
 <hr>
 ### CREATIVE SCIENCE LABS
