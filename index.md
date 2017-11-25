@@ -1,24 +1,54 @@
-
-I'm a Front-end Developer 
-
-<hr>
+```markdown
+I'm a Front-end Developer passionate about design and coding, 
+```
 
 ## Work Experience
-
+<hr>
 ### CREATIVE SCIENCE LABS
 #### Front-End Developer
-Guatemala City, Guatemala.<br>
-( Jan 2015 - Present )<br>
-<code>jQuery</code> <code>Javascript</code> <code>HTML5</code> <code>CSS</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>Wordpress</code> <code>Drupal</code> <code>Jekyll</code> 
-
-<hr>
-
+Guatemala City, Guatemala ( Jan 2015 - Present )<br>
+<ul>
+  <li>Currently developing wordpres/drupal websites for diferent kind of clients.<br>
+    <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>Foundation</code> <code>HTML5</code> <code>CSS</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>Wordpress</code> <code>Drupal</code><br><br>
+  </li>
+  <li>UI/UX solutions for each assigned project project. <br><br></li>
+   <li>Maintenance and creating new components for main wordpres website theme built from scratch which is adaptable to the needs and requirements of each project.<br>
+    <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>PHP</code> <code>HTML5</code> <code>CSS</code> <code>SASS</code>
+  </li>
+</ul>
+<br>
 #### FOX INTERNATIONAL CHANNELS GUATEMALA
 #### Website Designer Executive
-Guatemala City, Guatemala.<br>
-( Dec 2010 - Dec 2014 )<br>
-
-
+Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
+<ul>
+  <li>Text Goes here...<br>
+<code>HTML5</code> <code>CSS</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>iOS</code> <code>Android</code>
+      </li>
+</ul>
+<br>
+## Education
+<hr>
+<ul>
+  <li>Text Goes here...</li>
+  <li>Text Goes here...</li>
+  <li>Text Goes here...</li>
+</ul>
+<br>
+## Skilss
+<hr>
+<ul>
+  <li>Text Goes here...</li>
+  <li>Text Goes here...</li>
+  <li>Text Goes here...</li>
+</ul>
+<br>
+## Languages
+<hr>
+<ul>
+  <li>Text Goes here...</li>
+  <li>Text Goes here...</li>
+  <li>Text Goes here...</li>
+</ul>
 
 You can use the [editor on GitHub](https://github.com/yav1987/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
