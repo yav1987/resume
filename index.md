@@ -1,6 +1,6 @@
-```markdown
-I'm a Front-end Developer passionate about design and coding, 
-```
+<blockquote>
+I'm a Front-end Developer passionate about coding and design with 8 + years' of experience. 
+</blockquote>
 
 ## Work Experience
 <hr>
@@ -12,7 +12,7 @@ Guatemala City, Guatemala ( Jan 2015 - Present )<br>
     <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>Foundation</code> <code>HTML5</code> <code>CSS</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>Wordpress</code> <code>Drupal</code><br><br>
   </li>
   <li>UI/UX solutions for each assigned project project. <br><br></li>
-   <li>Maintenance and creating new components for main wordpres website theme built from scratch which is adaptable to the needs and requirements of each project.<br>
+   <li>Creating and maintaining new web components for main wordpres website theme built from scratch which is adaptable to the needs and requirements of each project.<br>
     <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>PHP</code> <code>HTML5</code> <code>CSS</code> <code>SASS</code>
   </li>
 </ul>
