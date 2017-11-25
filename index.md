@@ -9,7 +9,8 @@ Guatemala City, Guatemala.<br>
 <hr>
 
 ### FOX INTERNATIONAL CHANNELS GUATEMALA
-
+Guatemala City, Guatemala.<br>
+(Jan 2015 - Present)
 
 
 You can use the [editor on GitHub](https://github.com/yav1987/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
