@@ -12,7 +12,7 @@ Guatemala City, Guatemala, Home Office( Jan 2015 - Present )<br>
     <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>PHP</code> <code>HTML5</code> <code>CSS3</code> <code>SASS</code>
   </li><br><br>
   <li>UI/UX solutions for every assigned project.<br>
-  <code>UI/UX</code> <code>QA Process</code></li><
+  <code>UI/UX</code> <code>QA Process</code></li>
 </ul><br><br>
 #### FOX INTERNATIONAL CHANNELS GUATEMALA
 #### Website Designer Executive
