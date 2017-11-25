@@ -1,4 +1,4 @@
-I'm a Front-end Web Developer and designer motivated by the art of coding and design with 8+ years' of experience. Enthusiastic and passionate about the Web Development process interaction / design / technology. Detail and perfection is the perfect path for any project to be successful, every pixel, and every line of code counts.
+I'm a Front-end Web Developer/Designer motivated by the art of coding and design with 8+ years' of experience. Enthusiastic and passionate about the Web Development process interaction and technology. Detail and perfection is the perfect path for any project to be successful, every pixel, every line of code counts.
 <br><br>
 ## Work Experience
 <hr>
