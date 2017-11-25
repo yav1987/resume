@@ -4,9 +4,9 @@ I'm a Front-end Web Developer/Designer motivated by the art of coding and design
 <hr>
 ### CREATIVE SCIENCE LABS
 #### Front-End Developer
-Guatemala City, Guatemala ( Jan 2015 - Present )<br>
+Guatemala City, Guatemala, Home Office( Jan 2015 - Present )<br>
 <ul>
-  <li>Currently developing responsive wordpres/drupal websites. Using different frameworks and Web Technology continuous integration and delivery platform.<br>
+  <li>Currently developing responsive wordpres/drupal websites. Using different frameworks and Web Technology with continuous integration and delivery platform.<br>
     <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>Foundation</code> <code>HTML5</code> <code>CSS3</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>Wordpress</code> <code>Drupal</code></li><br><br>
   <li>UI/UX solutions for every assigned project.<br>
   <code>UI/UX</code> <code>QA Process</code></li><br><br>
