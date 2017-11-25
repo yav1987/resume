@@ -1,4 +1,15 @@
 
+I'm a Front-end Developer 
+
+## Work Experience
+###[CREATIVE SCIENCE LABS](http://creativesciencelabs.com)
+Guatemala City, Guatemala.<br>
+(Jan 2015 - Present)
+ 
+
+### FOX INTERNATIONAL CHANNELS GUATEMALA
+
+
 
 You can use the [editor on GitHub](https://github.com/yav1987/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
