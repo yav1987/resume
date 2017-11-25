@@ -6,7 +6,7 @@ I'm a Front-end Developer passionate about design and coding,
 #### Front-End Developer
 Guatemala City, Guatemala ( Jan 2015 - Present )<br>
 <ul>
-  <li>Text Goes here...<br>
+  <li>Currently developing wordpres/drupal websites for diferent kind of clients. Giiving maintenance and creating new components for main wordpres website theme built from scratch which is adaptable to the needs and requirements of each project.<br>
 <code>jQuery</code> <code>Javascript</code> <code>HTML5</code> <code>CSS</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>Wordpress</code> <code>Drupal</code> <code>Jekyll</code> 
   </li>
 </ul>
