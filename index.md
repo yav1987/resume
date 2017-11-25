@@ -15,7 +15,7 @@ Guatemala City, Guatemala ( Jan 2015 - Present )<br>
    <li>Creating and maintaining new web components for main wordpress theme, which was created from scratch in order to cover the needs and requirements of each new project.<br>
     <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>PHP</code> <code>HTML5</code> <code>CSS3</code> <code>SASS</code>
   </li>
-</ul>
+</ul><br><br>
 #### FOX INTERNATIONAL CHANNELS GUATEMALA
 #### Website Designer Executive
 Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
