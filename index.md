@@ -1,5 +1,6 @@
 ```markdown
 I'm a Front-end Developer passionate about design and coding, 
+```
 
 ## Work Experience
 <hr>
