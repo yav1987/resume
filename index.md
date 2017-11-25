@@ -1,16 +1,23 @@
 
 I'm a Front-end Developer 
 
+<hr>
+
 ## Work Experience
-[CREATIVE SCIENCE LABS](http://creativesciencelabs.com)
+
+### CREATIVE SCIENCE LABS
+#### Front-End Developer
 Guatemala City, Guatemala.<br>
-(Jan 2015 - Present)
+( Jan 2015 - Present )<br>
+<code>jQuery</code> <code>Javascript</code> <code>HTML5</code> <code>CSS</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>Wordpress</code> <code>Drupal</code> <code>Jekyll</code> 
 
 <hr>
 
-### FOX INTERNATIONAL CHANNELS GUATEMALA
+#### FOX INTERNATIONAL CHANNELS GUATEMALA
+#### Website Designer Executive
 Guatemala City, Guatemala.<br>
-(Jan 2015 - Present)
+( Dec 2010 - Dec 2014 )<br>
+
 
 
 You can use the [editor on GitHub](https://github.com/yav1987/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
