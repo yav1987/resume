@@ -12,7 +12,7 @@ Guatemala City, Guatemala ( Jan 2015 - Present )<br>
     <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>Foundation</code> <code>HTML5</code> <code>CSS3</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>Wordpress</code> <code>Drupal</code><br><br>
   </li>
   <li>UI/UX solutions for every assigned project.<br>
-  <code>UI/UX</code> <code>QA Process</code></li>
+  <code>UI/UX</code> <code>QA Process</code><br><br></li>
    <li>Creating and maintaining new web components for main wordpress theme, which was created from scratch in order to cover the needs and requirements of each new project.<br>
     <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>PHP</code> <code>HTML5</code> <code>CSS3</code> <code>SASS</code>
   </li>
@@ -45,10 +45,10 @@ Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
   <li><strong>BBA/Project Management and Business Development:</strong> <br>EADE Business School, Guatemala City, Guatemala - Present</li>
   <li><strong>Graphic Design/Industrial Bachelor:</strong><br> ITC Guatemala City, Guatemala (2006)</li>
 </ul>
-## Skilss
+## Skillss
 <hr>
 <ul>
-  <li><strong>Front-end Development:</strong> <code>jQuey</code> <code>Javascript</code> <code>Bootstrap</code><code>Foundation</code> <code>HTML5</code> <code>CSS3</code> <code>SASS</code> <code>LESS</code> <code>UI/UX Knowledge</code><code>Git</code> <code>SVN</code></li>
+  <li><strong>Front-end Development:</strong> <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>Foundation</code> <code>HTML5</code> <code>CSS3</code> <code>SASS</code> <code>LESS</code> <code>UI/UX Knowledge</code><code>Git</code> <code>SVN</code></li>
   <li><strong>Mobile Development:</strong><code>Xcode Story Board</code> <code>Android Studio</code></li>
   <li><strong>Web Design:</strong><code>Photoshop</code> <code>Illustratior</code> <code>Sketch</code></li>
   <li><strong>Systems:</strong><code>OSX</code> <code>Windows</code></li>
