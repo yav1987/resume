@@ -1,6 +1,6 @@
-<blockquote>
-I'm a Front-end Developer motivated by the art of programming and design with 8 + years' of experience. Enthusiastic about the Web Development interaction. Passionate autodidact.
-</blockquote><br><br>
+```markdown
+I'm a Front-end Web Developer motivated by the art of programming and design with 8 + years' of experience. Enthusiastic about the Web Development interaction. 
+```<br><br>
 ## Work Experience
 <hr>
 ### CREATIVE SCIENCE LABS
