@@ -1,7 +1,8 @@
-
+```markdown
 I'm a Front-end Developer passionate about design and coding, 
-<hr>
+
 ## Work Experience
+<hr>
 ### CREATIVE SCIENCE LABS
 #### Front-End Developer
 Guatemala City, Guatemala ( Jan 2015 - Present )<br>
@@ -23,22 +24,25 @@ Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
 <code>HTML5</code> <code>CSS</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>iOS</code> <code>Android</code>
       </li>
 </ul>
-<hr>
+<br><br>
 ## Education
+<hr>
 <ul>
   <li>Text Goes here...</li>
   <li>Text Goes here...</li>
   <li>Text Goes here...</li>
 </ul>
-<hr>
+<br><br>
 ## Skilss
+<hr>
 <ul>
   <li>Text Goes here...</li>
   <li>Text Goes here...</li>
   <li>Text Goes here...</li>
 </ul>
-<hr>
+<br><br>
 ## Languages
+<hr>
 <ul>
   <li>Text Goes here...</li>
   <li>Text Goes here...</li>
