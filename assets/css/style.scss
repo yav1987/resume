@@ -4,6 +4,9 @@
 @import "{{ site.theme }}";
 
 .page-header {
+  float: left;
+  width: 100%
+;
   .page-header-container {
     @media (min-width: 64rem){
       max-width: 64rem;
