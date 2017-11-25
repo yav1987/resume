@@ -8,12 +8,13 @@ I'm a Front-end Developer passionate about coding and design with 8 + years' of 
 #### Front-End Developer
 Guatemala City, Guatemala ( Jan 2015 - Present )<br>
 <ul>
-  <li>Currently developing wordpres/drupal websites for diferent kind of clients.<br>
-    <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>Foundation</code> <code>HTML5</code> <code>CSS</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>Wordpress</code> <code>Drupal</code><br><br>
+  <li>Currently developing responsive wordpres/drupal websites for diferent kind of clients.<br>
+    <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>Foundation</code> <code>HTML5</code> <code>CSS3</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>Wordpress</code> <code>Drupal</code><br><br>
   </li>
-  <li>UI/UX solutions for each assigned project project. <br><br></li>
-   <li>Creating and maintaining new web components for main wordpres website theme built from scratch which is adaptable to the needs and requirements of each project.<br>
-    <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>PHP</code> <code>HTML5</code> <code>CSS</code> <code>SASS</code>
+  <li>UI/UX solutions for every assigned project. <br><br>
+  <code>UI/UX</code> <code>QA Process</code></li>
+   <li>Creating and maintaining new web components for main wordpress theme, which was created from scratch in order to cover the needs and requirements of each new project.<br>
+    <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>PHP</code> <code>HTML5</code> <code>CSS3</code> <code>SASS</code>
   </li>
 </ul>
 <br>
@@ -21,9 +22,21 @@ Guatemala City, Guatemala ( Jan 2015 - Present )<br>
 #### Website Designer Executive
 Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
 <ul>
-  <li>Text Goes here...<br>
-<code>HTML5</code> <code>CSS</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>iOS</code> <code>Android</code>
+  <li>Implemented Design/UI/UX FOX Play Application for Microsoft XBOX One <br>
+<code>Photoshop</code> <code>Illustrator</code>
       </li>
+    <li>Design and front-end development for iOS Apps Projects <br>
+      <code>Photoshop</code> <code>Illustrator</code> <code>Xcode Storyboard</code>
+  </li>
+  <li>Design and front-end development for Android Apps Projects <br>
+      <code>Photoshop</code> <code>Illustrator</code> <code>Android Studio</code>
+    </li>
+    <li>Design and front-end development for Facebook Apps Projects <br>
+      <code>Photoshop</code> <code>Illustrator</code> <code>HTML</code> <code>CSS</code><code>FACEBOOK API</code>
+    </li>
+      <li>Design and front-end development for Functional HTML Landing Projects <br>
+      <code>Photoshop</code> <code>Illustrator</code> <code>HTML</code> <code>CSS</code>
+    </li>
 </ul>
 <br>
 ## Education
@@ -37,51 +50,15 @@ Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
 ## Skilss
 <hr>
 <ul>
-  <li>Text Goes here...</li>
-  <li>Text Goes here...</li>
+  <li>Front-end Development: <code>jQuey</code><code>Javascript</code><code>Bootstrap</code><code>Foundation</code><code>HTML5</code><code>CSS3</code><code>SASS</code><code>LESS</code><code>UI/UX Knowledge</code></li>
+  <li>Mobile Development:<code>Xcode Story Board</code><code>Android Studio</code></li>
+  <li>Web Design: <code>Photoshop</code><code>Illustratior</code><code>Sketch</code></li>
   <li>Text Goes here...</li>
 </ul>
 <br>
 ## Languages
 <hr>
 <ul>
-  <li>Text Goes here...</li>
-  <li>Text Goes here...</li>
-  <li>Text Goes here...</li>
+  <li>Spanish: Native</li>
+  <li>English: Independent User(B1)</li>
 </ul>
-
-You can use the [editor on GitHub](https://github.com/yav1987/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yav1987/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
