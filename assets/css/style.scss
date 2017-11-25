@@ -6,6 +6,9 @@
 .page-header {
   float: left;
   width: 100%;
+  @media (min-width: 64rem) {
+    padding: 2rem 6rem;
+  }
   .page-header-container {
     @media (min-width: 64rem){
       max-width: 52rem;
@@ -14,7 +17,9 @@
     }
     .project-image {
       float: left;
-      width: 25%;
+      @media (min-width: 64rem){
+        width: 25%;
+      }
       img{
         overflow: hidden;
         border-radius: 100%;
@@ -25,9 +30,12 @@
     }
     .project-data {
       float: left;
-      width: 75%;
+
       padding-left: 30px;
       text-align: left;
+      @media (min-width: 64rem){
+        width: 75%;
+      }
       .project-name {
         font-size: 25px;
       }
