@@ -1,8 +1,24 @@
----
----
-
 @import "{{ site.theme }}";
 
-.project-name{
-  font-size: 25px;
+.page-header {
+  .page-header-container {
+    @media (min-width: 64rem){
+      max-width: 64rem;
+      margin: 0 auto;
+      display: block;
+    }
+    .project-image {
+      float: left;
+      width: 20%;
+      overflow: hidden;
+      border-radius: 100%;
+    }
+    .project-data {
+      float: left;
+      width: 80%;
+      .project-name {
+        font-size: 25px;
+      }
+    }
+  }
 }
