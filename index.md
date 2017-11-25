@@ -7,7 +7,7 @@ I'm a Front-end Developer motivated by the art of programming and design with 8 
 #### Front-End Developer
 Guatemala City, Guatemala ( Jan 2015 - Present )<br>
 <ul>
-  <li>Currently developing responsive wordpres/drupal websites for diferent kind of clients.<br>
+  <li>Currently developing responsive wordpres/drupal websites. Using different frameworks and Web Technology continuous integration and delivery platform.<br>
     <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>Foundation</code> <code>HTML5</code> <code>CSS3</code> <code>SASS</code> <code>Less</code> <code>Photoshop</code> <code>Sketch</code> <code>Wordpress</code> <code>Drupal</code></li><br><br>
   <li>UI/UX solutions for every assigned project.<br>
   <code>UI/UX</code> <code>QA Process</code></li><br><br>
