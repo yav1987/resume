@@ -47,10 +47,10 @@ Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
 ## Skillss
 <hr>
 <ul>
-  <li><strong>Front-end Development:</strong> <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>Foundation</code> <code>HTML5</code> <code>CSS3</code> <code>SASS</code> <code>LESS</code> <code>UI/UX Knowledge</code> <code>Git</code> <code>SVN</code></li><br><br>
-  <li><strong>Mobile Development:</strong><code>Xcode Story Board</code> <code>Android Studio</code></li><br><br>
-  <li><strong>Web Design:</strong><code>Photoshop</code> <code>Illustratior</code> <code>Sketch</code></li><br><br>
-  <li><strong>Systems:</strong><code>OSX</code> <code>Windows</code></li>
+  <li><strong>Front-end Development:</strong><br> <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>Foundation</code> <code>HTML5</code> <code>CSS3</code> <code>SASS</code> <code>LESS</code> <code>UI/UX Knowledge</code> <code>Git</code> <code>SVN</code></li><br><br>
+  <li><strong>Mobile Development:</strong><br><code>Xcode Story Board</code> <code>Android Studio</code></li><br><br>
+  <li><strong>Web Design:</strong><br><code>Photoshop</code> <code>Illustratior</code> <code>Sketch</code></li><br><br>
+  <li><strong>Systems:</strong><br><code>OSX</code> <code>Windows</code></li>
 </ul>
 ## Languages
 <hr>
