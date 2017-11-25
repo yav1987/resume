@@ -17,7 +17,6 @@ Guatemala City, Guatemala ( Jan 2015 - Present )<br>
     <code>jQuery</code> <code>Javascript</code> <code>Bootstrap</code> <code>PHP</code> <code>HTML5</code> <code>CSS3</code> <code>SASS</code>
   </li>
 </ul>
-<br>
 #### FOX INTERNATIONAL CHANNELS GUATEMALA
 #### Website Designer Executive
 Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
@@ -38,15 +37,14 @@ Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
       <code>Photoshop</code> <code>Illustrator</code> <code>HTML</code> <code>CSS</code>
     </li>
 </ul>
-<br>
 ## Education
 <hr>
 <ul>
-  <li>Text Goes here...</li>
-  <li>Text Goes here...</li>
-  <li>Text Goes here...</li>
+  <li><strong>Software Development Technician Degree:</strong> Galileo University, Guatemala City, Guatemala - Present<br>
+  </li>
+  <li><strong>BBA/Project Management and Business Development</strong> EADE Business School, Guatemala City, Guatemala - Present</li>
+  <li><strong>Graphic Design/Industrial Bachelor</strong>ITC Guatemala City, Guatemala (2006)</li>
 </ul>
-<br>
 ## Skilss
 <hr>
 <ul>
@@ -55,7 +53,6 @@ Guatemala City, Guatemala ( Dec 2010 - Dec 2014 )<br>
   <li>Web Design: <code>Photoshop</code><code>Illustratior</code><code>Sketch</code></li>
   <li>Text Goes here...</li>
 </ul>
-<br>
 ## Languages
 <hr>
 <ul>
