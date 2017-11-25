@@ -1,4 +1,4 @@
-I'm a Front-end Web Developer motivated by the art of programming and design with 8 + years' of experience. Enthusiastic about the Web Development interaction.
+I'm a Front-end Web Developer motivated by the art of coding and design with 8+ years' of experience. Enthusiastic about the Web Development process interaction.
 <br><br>
 ## Work Experience
 <hr>
